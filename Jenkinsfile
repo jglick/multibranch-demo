@@ -1,3 +1,4 @@
+#!groovy
 echo 'hello from master'
 node {
   checkout scm
