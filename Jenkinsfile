@@ -1,5 +1,5 @@
 #!groovy
-echo 'hello from master'
+echo 'hello again from master'
 node {
   checkout scm
   sh 'ls -l'
